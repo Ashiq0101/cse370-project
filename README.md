@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Inferno Online Clothing Store
 
 An Ecommerce Clothing Store Website
@@ -83,5 +84,7 @@ Welcome to my **E-commerce Website** project! This full-stack project is designe
 
 
 
+=======
+>>>>>>> f32b503c3dc944ce11f0c372f781c1ad7079313e
 
 >>>>>>> 9be2fcb9c5f67cde540853cef4f236c7a477e0e5
